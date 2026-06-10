@@ -46,4 +46,4 @@ g++ -o dungeon main.cpp Player.cpp Enemy.cpp Entity.cpp DungeonMaster.cpp Quest.
 ## 👩‍💻 Author
 **Manal Shahnawaz** — BS Software Engineering, FAST-NUCES (CF Campus)  
 📧 manalshahnawaz1@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/manal-shahnawaz-)
+🔗 [LinkedIn](https://linkedin.com/in/manal-shahnawaz-2176193b3)
